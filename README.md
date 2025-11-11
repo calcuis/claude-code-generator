@@ -30,7 +30,7 @@ ccg code
 ```
 
 ![banner](banner.png)
-** start the custom server with `ccg ui` then launch to claude-code with `ccg code`
+** start the custom server with `ccg ui` then launch to claude-code with `ccg code` instead of claude
 
 ![screenshot](https://raw.githubusercontent.com/anthropics/claude-code/master/demo.gif)
 ** demo gif from anthropics/claude-code
