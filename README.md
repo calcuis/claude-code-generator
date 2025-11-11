@@ -32,5 +32,5 @@ ccg code
 ![banner](banner.png)
 
 ## reference
-https://github.com/calcuis/claude-code-router
-https://github.com/anthropics/claude-code
+- https://github.com/calcuis/claude-code-router
+- https://github.com/anthropics/claude-code
