@@ -32,7 +32,7 @@ ccg code
 ![banner](banner.png)
 
 ![screenshot](https://raw.githubusercontent.com/anthropics/claude-code/master/demo.gif)
-** demo from anthropics
+** demo from anthropics/claude-code
 
 ## reference
 https://github.com/calcuis/claude-code-router
