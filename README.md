@@ -35,5 +35,10 @@ ccg code
 ![screenshot](https://raw.githubusercontent.com/anthropics/claude-code/master/demo.gif)
 ** demo gif from anthropics/claude-code
 
+ensure the current environment is safe (i.e., offline); add this tag for auto completion
+```
+ccg code --dangerously-skip-permissions
+```
+
 ## reference
 https://github.com/calcuis/claude-code-router
