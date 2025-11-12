@@ -67853,7 +67853,7 @@ var require_package3 = __commonJS({
   "package.json"(exports2, module2) {
     module2.exports = {
       name: "@gguf/claude-code-generator",
-      version: "1.0.6",
+      version: "1.0.7",
       description: "Use Claude Code without an Anthropics account and route it to custom server(s)",
       bin: {
         ccg: "dist/cli.js"
